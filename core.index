@@ -2,6 +2,8 @@
 <index>
 	<info>
 		<name>pirate_core</name>
+		<Description>pirate</description>
+		<author url="https://github.com/auraisbad">auraisbad</author>
 		<update version="0.0.1">
 			<file name="core.index" url="https://github.com/auraisbad/dnd5e-pirate-aurora.git/core.index" />
 		</update>
