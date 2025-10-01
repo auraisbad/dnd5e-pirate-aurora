@@ -9,6 +9,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="background-PLACEHOLDER.xml" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/cfb1ddb35bac8e670a1682725e288c1fd51f803b/backgrounds/background-PLACEHOLDER.xml" />
+		<file name="core/backgrounds/background-PLACEHOLDER.xml" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/main/core/backgrounds/background-PLACEHOLDER.xml" />
 	</files>
 </index>
