@@ -3,7 +3,7 @@
 	<info>
 		<name></name>
 		<update version="0.0.1">
-			<file name="backgrounds.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master//dungeon-masters-guide.index" />
+			<file name="backgrounds.index" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/f1bd16a83e1bd4ab05ad672a937ca28cc40b3ec5/backgrounds.index" />
 		</update>
 	</info>
 	<files>
