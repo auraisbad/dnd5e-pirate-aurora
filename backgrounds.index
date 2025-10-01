@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name></name>
+		<update version="0.0.1">
+			<file name="backgrounds.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master//dungeon-masters-guide.index" />
+		</update>
+	</info>
+	<files>
+		<file name="background-PLACEHOLDER.xml.xml" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/cfb1ddb35bac8e670a1682725e288c1fd51f803b/backgrounds/background-PLACEHOLDER.xml" />
+	</files>
+</index>
