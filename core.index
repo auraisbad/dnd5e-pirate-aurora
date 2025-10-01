@@ -9,6 +9,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="core/backgrounds.index" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/main/core/backgrounds.index" />
+		<file name="backgrounds.index" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/main/core/backgrounds.index" />
 	</files>
 </index>
