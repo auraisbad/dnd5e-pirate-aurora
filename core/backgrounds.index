@@ -5,10 +5,10 @@
 		<Description>background</description>
 		<author url="https://github.com/auraisbad">auraisbad</author>
 		<update version="0.0.1">
-			<file name="backgrounds.index" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/f1bd16a83e1bd4ab05ad672a937ca28cc40b3ec5/backgrounds.index" />
+			<file name="backgrounds.index" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/main/core/backgrounds.index" />
 		</update>
 	</info>
 	<files>
-		<file name="core/backgrounds/background-PLACEHOLDER.xml" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/main/core/backgrounds/background-PLACEHOLDER.xml" />
+		<file name="background-PLACEHOLDER.xml" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/main/core/backgrounds/background-PLACEHOLDER.xml" />
 	</files>
 </index>
