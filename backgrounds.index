@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name></name>
+		<name>background</name>
+		<name>pirate_backgrounde</name>
+		<Description>background</description>
+		<author url="https://github.com/auraisbad">auraisbad</author>
 		<update version="0.0.1">
 			<file name="backgrounds.index" url="https://github.com/auraisbad/dnd5e-pirate-aurora/blob/f1bd16a83e1bd4ab05ad672a937ca28cc40b3ec5/backgrounds.index" />
 		</update>
